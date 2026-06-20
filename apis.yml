@@ -7,7 +7,7 @@ description: >-
   combines clinical, operational, and financial capabilities to manage Medicare
   populations. Agilon Health does not publish a public developer API portal.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Healthcare
   - Primary Care
